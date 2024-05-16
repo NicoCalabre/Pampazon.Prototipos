@@ -85,7 +85,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(485, 27);
             textBox1.TabIndex = 5;
-            textBox1.TextChanged += textBox1_TextChanged;
+            //textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox2
             // 
@@ -104,7 +104,7 @@
             label2.Size = new Size(119, 32);
             label2.TabIndex = 7;
             label2.Text = "ID Cliente";
-            label2.Click += label2_Click;
+            //label2.Click += label2_Click;
             // 
             // textBox3
             // 
@@ -234,7 +234,7 @@
             label9.Size = new Size(1169, 57);
             label9.TabIndex = 24;
             label9.Text = "Se ha eliminado la orden de recepción seleccionada con éxito";
-            label9.Click += label9_Click;
+            //label9.Click += label9_Click;
             // 
             // button7
             // 
@@ -350,7 +350,7 @@
             Controls.Add(button1);
             Name = "Form1";
             Text = "Orden de Recepción Eliminada con Éxito";
-            Load += Form1_Load;
+            //Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("NicoCala.Pampazon.Prototipos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pampazon.Prototipos.CasoUso1.Caso2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57f3b66ce020168596f33e148ed9f7974da78782")]
-[assembly: System.Reflection.AssemblyProductAttribute("NicoCala.Pampazon.Prototipos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("NicoCala.Pampazon.Prototipos")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pampazon.Prototipos.CasoUso1.Caso2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pampazon.Prototipos.CasoUso1.Caso2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

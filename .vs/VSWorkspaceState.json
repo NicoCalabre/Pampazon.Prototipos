@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Pampazon.Prototipo.CasoUso1.Caso1"
+    "\\Pampazon.Prototipo.CasoUso1.Caso1",
+    "\\Pampazon.Prototipo.CasoUso1.Caso1\\NicoCala.Prototipos.Caso1",
+    "\\Pampazon.Prototipo.CasoUso1.Caso1\\NicoCala.Prototipos.Caso1\\bin"
   ],
-  "SelectedNode": "\\Pampazon.Prototipo.CasoUso1.Caso1\\NicoCala.Prototipos.Caso1",
+  "SelectedNode": "\\Pampazon.Prototipo.CasoUso1.Caso1\\NicoCala.Pampazon.Prototipos.sln",
   "PreviewInSolutionExplorer": false
 }

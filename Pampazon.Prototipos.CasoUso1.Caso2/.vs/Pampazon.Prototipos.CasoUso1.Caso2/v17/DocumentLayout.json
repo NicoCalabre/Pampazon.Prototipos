@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipos.CasoUso1.Caso2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABBD6B-78A2-4510-A5D5-904CCE54C773}|Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.csproj|c:\\users\\nicolascalabrese\\source\\repos\\nicocala.prototipos.caso1\\pampazon.prototipos\\pampazon.prototipos.casouso1.caso2\\pampazon.prototipos.casouso1.caso2\\pampazon.prototipos.casouso1.caso2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4ABBD6B-78A2-4510-A5D5-904CCE54C773}|Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.csproj|solutionrelative:pampazon.prototipos.casouso1.caso2\\pampazon.prototipos.casouso1.caso2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pampazon.Prototipos.CasoUso1.Caso2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.cs",
+              "RelativeDocumentMoniker": "Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.cs",
+              "ToolTip": "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:42:37.463Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

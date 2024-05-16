@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipo.CasoUso1.Caso1\\NicoCala.Prototipos.Caso1\\NicoCala.Pampazon.Prototipos.csproj": {}
+    "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipo.CasoUso1.Caso1\\NicoCala.Prototipos.Caso1\\NicoCala.Pampazon.Prototipos.csproj": {
+    "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipo.CasoUso1.Caso1\\NicoCala.Prototipos.Caso1\\NicoCala.Pampazon.Prototipos.csproj",
-        "projectName": "NicoCala.Pampazon.Prototipos",
-        "projectPath": "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipo.CasoUso1.Caso1\\NicoCala.Prototipos.Caso1\\NicoCala.Pampazon.Prototipos.csproj",
+        "projectUniqueName": "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.csproj",
+        "projectName": "Pampazon.Prototipos.CasoUso1.Caso2",
+        "projectPath": "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2.csproj",
         "packagesPath": "C:\\Users\\NicolasCalabrese\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipo.CasoUso1.Caso1\\NicoCala.Prototipos.Caso1\\obj\\",
+        "outputPath": "C:\\Users\\NicolasCalabrese\\source\\repos\\NicoCala.Prototipos.Caso1\\Pampazon.Prototipos\\Pampazon.Prototipos.CasoUso1.Caso2\\Pampazon.Prototipos.CasoUso1.Caso2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NicolasCalabrese\\AppData\\Roaming\\NuGet\\NuGet.Config",
